@@ -27,3 +27,5 @@ _ReSharper.*
 ~$*
 packages
 packages/*
+/src/Snoop.Client/Release/sqlsnoopusersettings.txt
+/src/Snoop.Client/Release/Snoop.Client.pdb
